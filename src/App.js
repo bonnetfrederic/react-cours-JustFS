@@ -6,7 +6,7 @@ import Contact from "./pages/Contact";
 import Home from "./pages/Home";
 
 const App = () => {
-  return (
+  return ( 
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
@@ -21,3 +21,4 @@ const App = () => {
 };
 
 export default App;
+/* test pour branch 'test' */
