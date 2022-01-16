@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bonnetfrederic/react-cours-JustFS.git/static/css/main.9a4ed044.css",
+    "main.js": "/bonnetfrederic/react-cours-JustFS.git/static/js/main.1397bf0b.js",
+    "static/media/logo.jpg": "/bonnetfrederic/react-cours-JustFS.git/static/media/logo.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/bonnetfrederic/react-cours-JustFS.git/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/bonnetfrederic/react-cours-JustFS.git/index.html",
+    "main.9a4ed044.css.map": "/bonnetfrederic/react-cours-JustFS.git/static/css/main.9a4ed044.css.map",
+    "main.1397bf0b.js.map": "/bonnetfrederic/react-cours-JustFS.git/static/js/main.1397bf0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a4ed044.css",
+    "static/js/main.1397bf0b.js"
+  ]
+}
